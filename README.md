@@ -1,4 +1,4 @@
-# AuthenticationStrategies
+# AuthenticationStrategies NODE.JS EXPRESS.JS PASSPORT.JS
 Description: The application represents an attempt to integrate all important authentication protocols with
 using Passport.js middleware. Important authentication strategies are implemented
 protocol:
