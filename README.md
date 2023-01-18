@@ -19,7 +19,10 @@ data of another application from which we received tokens, in this case a Google
 
 ## Installation
 1) You need to install the MongoDB Community Server on: https://www.mongodb.com/try/download/community
-2) Clone the project
+2) Clone the project running the next command in terminal:
+```bash 
+git clone https://github.com/markosavicmidusa/AuthenticationStrategies.git
+```
 3) In terminal run command:
 ```bash
 npm install
