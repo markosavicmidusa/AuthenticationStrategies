@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: snow;
+}
+
+section {
+    margin: 1rem auto;
+    width: 80%;
+    max-width: 35rem;
+    border: 1px black solid;
+    padding: 2rem;
+    background-color: beige;
+}
+
+form {
+    margin: .5rem 0;
+}
+
+input,
+label {
+    width: 100%;
+    font: inherit;
+    font-weight: bold;
+}
+input{
+    display: block;
+    height: 2rem;
+}
+
+input:focus {
+    border-color: bisque;
+    outline: none;
+}
+
+button{
+    width: 20%;
+    height: 40%;
+}
+
+button:focus{
+    outline: none;
+}
+button:active{
+    background-color: grey;
+}
